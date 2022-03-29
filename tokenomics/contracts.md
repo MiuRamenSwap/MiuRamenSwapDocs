@@ -1,5 +1,9 @@
 # Contracts
 
+## **IN PREPARATION**
+
+## **Coming soon ...**
+
 ### Our fanctions smart contract
 
 #### MIUX Token smart contracts

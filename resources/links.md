@@ -2,12 +2,12 @@
 
 ### Social
 
-Twitter [https://twitter.com/MiuRamenSwap](https://twitter.com/MiuRamenSwap)\
-Medium [https://miuramenswap.medium.com](https://miuramenswap.medium.com)\
-Telegram [https://t.me/MiuRamenSwapCommunity](https://t.me/MiuRamenSwapCommunity)\
-
+Twitter [https://twitter.com/SwapMiu](https://twitter.com/SwapMiu)\
+Medium [https://medium.com/@miuramenswap](https://medium.com/@miuramenswap)\
+Telegram [https://t.me/miuramenswa](https://t.me/miuramenswap)\
+Reddit [https://www.reddit.com/r/MiuRamenSwapCommunity](https://www.reddit.com/r/MiuRamenSwapCommunity)
 
 ### Products & Info
 
-Homepage [https://miuramen.com/](https://spookyswap.finance)\
-Github [https://github.com/miuramenswap](https://github.com/SpookySwap)​
+Homepage [https://miuramenswap.com/](https://miuramenswap.com)\
+Github [https://github.com/miuramenswap](https://github.com/miuramenswap/)​

@@ -15,15 +15,13 @@ Contract Address : 0x522A949651052385C542e5F6f7f4610F5b2F54Bd
 
 Chain: Fantom Opera
 
-Total Supply 300,000 MIUX
+Total Supply 1,000,000 MIUX
 
-5% (15,000 MIUX) will be used for IDO
+80.5% (805,000 MIUX) will be used for Liquidty, DEX (IDO)
 
-35% (105,000 MIUX) will be used for team but locked for 6 months
+15.0% (150,000 MIUX) will be locked for Gaming reword. (Unlock Date : July 30, 2022)
 
-50% (150,000 MIUX) will be used for Liquidity, Marketing, Gaming reword
-
-10% (30,000 MIUX) will be allocated to MIUX developer members
+4.5% (45,000 MIUX) will be allocated to MIUX developer members
 
 \
 Emission Rate Emission/block (MIUX) : 0.05
